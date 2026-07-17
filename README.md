@@ -7,7 +7,7 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　  　　  　　![Visitors](https://api.visitorbadge.io/api/visitors?path=KatzSalem&label=Magical%20%20Monsters%20%20kept%20%20at%20%20bay%20%20!!&labelColor=%23fac9f6&countColor=%23432d61&style=flat&labelStyle=none)
+　　　　　　　　　　　　　　　　　　　    　　![Visitors](https://api.visitorbadge.io/api/visitors?path=KatzSalem&label=Magical%20%20Monsters%20%20kept%20%20at%20%20bay%20%20!!&labelColor=%23fac9f6&countColor=%23432d61&style=flat&labelStyle=none)
 
 <p align="center">${\textsf{\color{#eaafd0}Selec}}$ ${\textsf{\color{#eaafd0}Sharing}}$ ${\textsf{\color{#52255b}Hyuna}}$ ${\textsf{\color{#cd3daa}riako}}$ 　　　   <img width="20" height="20" alt="p81" src="https://github.com/user-attachments/assets/fd73e9f4-c793-4d9a-89ba-81d27d397cca" />
 
